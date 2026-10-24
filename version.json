@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://v4.gh-proxy.org/https://github.com/tackeyxy/hongguoTV_Updater/raw/main/hongguoTV.apk",
+  "changelog": "1. 播放器控制栏重构：自绘图标、圆形焦点、现代胶囊布局。\n2. 倍速与清晰度改为弹出小卡片选择，选中项高亮并回显。\n3. 播放控件 6 秒无操作自动隐藏，按键/触摸重新唤出。\n4. 新增启动强制更新检查与设置内手动检测更新。\n5. 更新 APK 使用 https://v4.gh-proxy.org/ 前缀加速下载。"
+}
